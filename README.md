@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Red X
+- 👋 Hi, I’m Red X
 - 👀 I’m interested in Graphics design
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Coding Design
